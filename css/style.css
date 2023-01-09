@@ -75,7 +75,7 @@ h1, h2 {
 
 }
 
-/* creates level of zoom for image*/
+    /* creates level of zoom for image*/
 
 @keyframes hero-zoom {
     from{
